@@ -1,7 +1,6 @@
 ### Hi there 👋, The name is Noman
 #### I am a frontend developer
 📚 Education: National Institute of Technology Rourkela
-🚀 Aspiring Frontend Developer 💻
 
 Skills: REACT / JS / HTML / CSS
 
