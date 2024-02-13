@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi there 👋, The name is Noman
+#### I am a frontend developer
+📚 Education: National Institute of Technology Rourkela
+🚀 Aspiring Frontend Developer 💻
 
-<!--
-**AlNomanCSE/AlNomanCSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Carlife Project https://carlifebynoman.netlify.app/
+
+
+
+
+
 
 Here are some ideas to get you started:
 
