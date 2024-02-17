@@ -1,14 +1,21 @@
-### Hi there 👋, The name is Noman
-![Untitled-2](https://github.com/AlNomanCSE/AlNomanCSE/assets/154955210/7bf73da7-53da-4104-b84f-b170de3a0ba3)
-fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, The name in Noman
+👑 I am Web Developer
+🖊️ Love to write code
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction.I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with FrontEnd but some technologies I enjoy working with include ReactJS, JavaScript .
 
-Skills: REACT / JS / HTML / CSS
+👨‍💻 Skills & Experiance:
+✅ WordPress
+✅ JavaScript
+✅ HTML5 / CSS3 
+✅ Photoshop 
 
-- 🔭 I’m currently working on https://carlifebynoman.netlify.app/ 
-- 🌱 I’m currently learning ReactJS  
+- 🌱 I’m currently learning NextJS 
 - 💬 Ask me about ReactJS 
-- 📫 How to reach me: https://www.linkedin.com/in/abdullah-al-noman-4989222b3/ 
-- ⚡ Fun fact: I started reading manga  
+- 📫 How to reach me: abdullahalnomancse@gmail.com 
+- ⚡ Fun fact: Love Anime 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah-al-noman-4989222b3//)  
 
 
 
