@@ -1,5 +1,6 @@
 ### Hi there 👋, The name is Noman
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+![Untitled-2](https://github.com/AlNomanCSE/AlNomanCSE/assets/154955210/7bf73da7-53da-4104-b84f-b170de3a0ba3)
+fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: REACT / JS / HTML / CSS
 
