@@ -14,7 +14,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ Photoshop
 
 - 🌱 I’m currently learning NextJS 
-- 💬 Ask me about ReactJS 
+- 💬 Ask me about JavaScript 
 - 📫 How to reach me: abdullahalnomancse@gmail.com 
 - ⚡ Fun fact: Love Anime 
 
