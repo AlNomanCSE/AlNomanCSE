@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://abdullahalnomancse.netlify.app/](https://abdullahalnomancse.netlify.app/)
 
-- ⚡ Fun fact **Love Anime**
+- ⚡ Fun fact **Love singing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
