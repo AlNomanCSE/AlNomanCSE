@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Foodie](https://ordercustomfood.netlify.app)
 
-- 🌱 I’m currently learning **NEXT.js**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://abdullahalnomancse.netlify.app/](https://abdullahalnomancse.netlify.app/)
 
-- 💬 Ask me about **NEXT.js**
+- 💬 Ask me about **Front-End development**
 
 - 📫 How to reach me **abdullahalnomancse@gmail.com**
 
