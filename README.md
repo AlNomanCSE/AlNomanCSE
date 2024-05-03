@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://abdullahalnomancse.netlify.app/](https://abdullahalnomancse.netlify.app/)
 
-- ⚡ Fun fact **Love singing**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/al-nomancse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-nomancse" height="30" width="40" /></a>
