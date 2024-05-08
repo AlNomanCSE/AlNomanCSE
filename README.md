@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnomancse&label=Profile%20views&color=0e75b6&style=flat" alt="alnomancse" /> </p>
 
 
-- 🔭 I’m currently working on [Foodie](https://ordercustomfood.netlify.app)
+- 🔭 I’m currently working for E-Commerce website [Barrack](https://github.com/AlNomanCSE/barrack_ecom_my-work)
 
 - 🌱 I’m currently learning **Web Development**
 
