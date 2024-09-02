@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnomancse&label=Profile%20views&color=0e75b6&style=flat" alt="alnomancse" /> </p>
 
-- 🔭 I’m currently working on [Foodie](https://ordercustomfood.netlify.app)
+- 🔭 I’m currently working on Java Spring 
 
-- 🌱 I’m currently learning **NEXT.js**
+- 🌱 I’m currently learning **OOPS**
 
 - 👨‍💻 All of my projects are available at [https://abdullahalnomancse.netlify.app/](https://abdullahalnomancse.netlify.app/)
 
