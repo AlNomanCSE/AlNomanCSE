@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abdullahalnomancse.netlify.app/](https://abdullahalnomancse.netlify.app/)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **abdullahalnomancse@gmail.com**
 
