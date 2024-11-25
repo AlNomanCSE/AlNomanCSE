@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Spring & Angular JS<br><br>🌱 I’m currently learning OOPS<br><br>👨‍💻 All of my projects are available at https://abdullahalnomancse.netlify.app/<br><br>💬 Ask me about JAVA<br><br>📫 How to reach me abdullahalnomancse@gmail.com<br><br>📄 Know about my experiences https://abdullahalnomancse.netlify.app/<br><br>⚡ Fun fact Love Anime , Tv Series , Movies
+🔭 I’m currently working on Java Spring & Angular JS<br><br>🌱 I’m currently learning Spring<br><br>👨‍💻 All of my projects are available at https://abdullahalnomancse.netlify.app/<br><br>💬 Ask me about JAVA<br><br>📫 How to reach me abdullahalnomancse@gmail.com<br><br>📄 Know about my experiences https://abdullahalnomancse.netlify.app/<br><br>⚡ Fun fact Love Anime , Tv Series , Movies
 
 
 ## 🌐 Socials:
