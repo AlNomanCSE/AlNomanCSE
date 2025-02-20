@@ -4,12 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
-<h3 align="center">A passionate Java developer from Bangladesh</h3>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Spring+Enthusiast;Anime+Lover;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AlNomanCSE&theme=github-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak">
   </a>
 </p>
 
