@@ -1,12 +1,9 @@
-<p align="center">
-  <a href="https://abdullahalnomancse.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Al+Noman;Java+%7C+Spring+%7C+Angular;Anime+Enthusiast+%F0%9F%8E%AD;Problem+Solver+%E2%9A%99%EF%B8%8F" alt="Animated Header" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
+<h3 align="center">A passionate Java developer from Bangladesh</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AlNomanCSE&theme=github-dark&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Spring+Enthusiast;Anime+Lover;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -57,12 +54,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlNomanCSE&theme=vision-friendly-dark" alt="Streak" height="160">
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlNomanCSE&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="160">
+</div>
 
 ---
 
 ### 🎯 Currently Focusing On
-- Mastering Spring Framework with Microservices🌱
+- Mastering Spring Framework 🌱
 - Building Full-Stack Applications 🚀
 - Improving System Design Skills 🧠
 
