@@ -54,9 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlNomanCSE&theme=vision-friendly-dark" alt="Streak" height="160">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlNomanCSE&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="160">
-</div>
+
 
 ---
 
