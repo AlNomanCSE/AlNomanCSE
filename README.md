@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://abdullahalnomancse.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Al+Noman;Java+%7C+Spring+%7C+Angular;Anime+Enthusiast+%F0%9F%8E%AD;Problem+Solver+%E2%9A%99%EF%B8%8F" alt="Animated Header" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdullah Al Noman</h1>
 <h3 align="center">A passionate Java developer from Bangladesh</h3>
 
