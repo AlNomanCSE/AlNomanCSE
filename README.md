@@ -71,7 +71,7 @@
 When I'm not coding, you'll find me:
 - 📺 Binging the latest anime series
 - 🎮 Exploring open-world games
-- 🍿 Watching tech documentaries
+- � Watching tech documentaries
 
 ---
 
