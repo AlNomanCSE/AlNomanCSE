@@ -18,44 +18,6 @@
   </a>
 </p>
 
----
-
-### 💻 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <div align="center">
-        <a href="https://github.com/AlNomanCSE/project-repo" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=Project+Preview" width="400" alt="Project 1"/>
-        </a>
-        <p><strong>Java • Spring Boot • Angular</strong> - Short and impactful description of your best project</p>
-        <a href="https://github.com/AlNomanCSE/project-repo" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-        </a>  
-        <a href="https://your-deployed-project.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <div align="center">
-        <a href="https://github.com/AlNomanCSE/project-repo" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=Project+Preview" width="400" alt="Project 2"/>
-        </a>
-        <p><strong>React • Node.js • MongoDB</strong> - Short and impactful description of another significant project</p>
-        <a href="https://github.com/AlNomanCSE/project-repo" target="_blank">
-          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-        </a>  
-        <a href="https://your-deployed-project.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
