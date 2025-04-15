@@ -64,11 +64,11 @@
 <details open>
   <summary><b>Backend</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+
 </details>
 
 <details>
@@ -117,8 +117,8 @@
 ---
 
 ### 🎯 Current Focus
-- Building scalable microservices with NestJS ⚡
-- Cloud-native application architecture with Docker 🚀
+- Building scalable microservices with Spring Boot ⚡
+- Cloud-native application architecture with Docker and Kubernetes 🚀
 - Implementing clean code and design patterns 🧩
 - Contributing to open-source Java projects 🌟
 
