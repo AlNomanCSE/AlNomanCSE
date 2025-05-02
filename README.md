@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Java Developer | Spring Enthusiast</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Backend+Specialist;Full-Stack+Developer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F¢er=true&vCenter=true&width=435&lines=Backend+Specialist;Full-Stack+Developer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 🛠️ Tech Stack
@@ -29,6 +28,7 @@
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 
 </details>
 
@@ -83,6 +83,11 @@
 - Implementing clean code and design patterns 🧩
 - Contributing to open-source Java projects 🌟
 
+### 📚 Learning
+- Deepening knowledge of Go (Golang) for high-performance applications 🖥️
+- Exploring advanced NestJS features for scalable backend development 🌐
+- Studying Kubernetes for container orchestration 📦
+
 ### ⚡ Beyond Coding
 When I'm not coding, you'll find me:
 - 📺 Binging the latest anime series
@@ -93,7 +98,7 @@ When I'm not coding, you'll find me:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer" width="100%"/>
 </div>
 
 <p align="center">
