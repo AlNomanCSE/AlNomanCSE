@@ -26,8 +26,8 @@
   <summary><b>Backend</b></summary>
   <br>
 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 
 </details>
@@ -78,14 +78,14 @@
 ---
 
 ### 🎯 Current Focus
-- Building scalable microservices with Spring Boot ⚡
+- Building scalable microservices with Spring Boot and Golang ⚡
 - Cloud-native application architecture with Docker and Kubernetes 🚀
 - Implementing clean code and design patterns 🧩
 - Contributing to open-source Java projects 🌟
 
 ### 📚 Learning
-- Deepening knowledge of Go (Golang) for high-performance applications 🖥️
-- Exploring advanced NestJS features for scalable backend development 🌐
+- Deepening knowledge of Go (Golang) and Java spring boot for high-performance applications 🖥️
+- Java advanced concepts and frameworks for enterprise applications 🌐
 - Studying Kubernetes for container orchestration 📦
 
 ### ⚡ Beyond Coding
