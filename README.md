@@ -216,7 +216,7 @@ I'm always excited to collaborate on interesting projects or discuss tech! Feel 
 
 📧 **Email:** abdullahalnomancse@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/abdullahalnomancse](https://linkedin.com/in/abdullahalnomancse)  
-🌐 **Portfolio:** [abdullahalnomancse.netlify.app](https://abdullahalnomancse.netlify.app/)  
+🌐 **Portfolio:** [abdullahalnomancse.netlify.app](https://alnomancse.netlify.app/)  
 
 </div>
 
