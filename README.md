@@ -35,7 +35,7 @@ const abdullah = {
     location: "Dhaka, Bangladesh 🇧🇩",
     education: "B.Tech in CSE from NIT Rourkela",
     currentlyTeaching: "MERN Stack @ European IT Institute",
-    currentFocus: ["Spring Boot Microservices", "Cloud Architecture", "System Design"],
+    currentFocus: ["Microservices", "Cloud Architecture", "System Design"],
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
@@ -171,11 +171,11 @@ const abdullah = {
 ## 💻 Problem Solving Profile
 
 <div align="center">
-  <a href="https://leetcode.com/AlNomanCSE">
+  <a href="https://leetcode.com/u/Abdullah_noman/">
     <img src="https://img.shields.io/badge/LeetCode-50+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <br><br>
-  <img src="https://leetcard.jacoblin.cool/AlNomanCSE?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Abdullah_noman?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 ---
@@ -186,15 +186,11 @@ const abdullah = {
 
 ```mermaid
 graph LR
-    A[Current Focus] --> B[🚀 Spring Boot Microservices]
+    A[Current Focus] --> B[🚀 Microservices]
     A --> C[☁️ Cloud Architecture]
     A --> D[🏗️ System Design]
-    A --> E[🎯 DSA & Problem Solving]
     
-    F[Learning] --> G[🔧 Kubernetes]
-    F --> H[⚡ Go/Golang]
-    F --> I[🏛️ Software Architecture]
-    F --> J[🤖 Advanced Java]
+    E[Learning] --> F[🏛️ Software Architecture]
 ```
 
 </div>
