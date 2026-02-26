@@ -30,7 +30,7 @@
 
 ```javascript
 const abdullah = {
-    title: "Software Developer & Aspiring Product Manager",
+    title: "Software Engineer II & Aspiring Product Manager",
     company: "Innovative Skills BD",
     location: "Dhaka, Bangladesh 🇧🇩",
     education: "B.Tech in CSE | NIT Rourkela 🎓",
